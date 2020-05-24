@@ -1,6 +1,4 @@
 # Строка графика платежей
-
-
 class Payment_schedule_row:
     id_contract = 0
     payment = 0

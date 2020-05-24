@@ -1,6 +1,5 @@
 # Класс с полями важными для предметной области (пока что все столбцы из таблицы)
 from datetime import datetime
-
 from .Payment_schedule import Payment_schedule
 
 
